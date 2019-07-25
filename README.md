@@ -1,0 +1,1 @@
+# HED document detection
