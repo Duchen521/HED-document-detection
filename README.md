@@ -9,9 +9,12 @@ This project is a Pytorch implementation of HED algorithm([Holistically-Nested E
 
 Some examples are shown bellow.
 - Similar colors of the document and background:
+  
 <img src="./demo/2016004_2017112013811_1.jpg" height="210" > <img src="./demoout/2016004_2017112013811_1.jpg" height="210" >
 
 <img src="./demo/1555330612760.jpg" height="220" > <img src="./demoout/1555330612760.jpg" height="220" > <img src="./demo/quote_66_honor9_10.jpg" height="220" > <img src="./demoout/quote_66_honor9_10.jpg" height="220" >
+
+
 
 - The results are better when there is a clear distinction between foreground and background:
 
