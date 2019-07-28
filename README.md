@@ -23,8 +23,6 @@ Some examples are shown bellow.
 
 
 
-### Contents
-[TOC]
 ### Requirements
 - python3
 - Any version of Pytorch version > 1.0 should be ok
